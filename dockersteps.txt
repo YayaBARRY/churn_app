@@ -1,0 +1,11 @@
+# Active l'environnement virtuel (déjà fait)
+venv\Scripts\activate
+
+# Installe les dépendances Flask
+pip install -r requirements.txt
+
+# Crée l’image Docker
+docker build -t churn-flask-app .
+
+# Lance l’image
+docker run -p 5000:5000 churn-flask-app
