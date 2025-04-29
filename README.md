@@ -1,4 +1,4 @@
-# 1. Application de Prédiction du Churn – Expresso Sénégal
+# 1. Application de Prédiction du Churn des clients d'Expresso Sénégal
 Cette application Flask prédit le risque de désabonnement des clients de l'opérateur Expresso Sénégal à partir de données client. Elle est déployée gratuitement sur Render.
 
 
