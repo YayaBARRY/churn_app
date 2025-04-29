@@ -49,3 +49,10 @@ Chaque `git push` déclenchera un nouveau déploiement.
 ## Développé par
 **Mamadou Yaya BARRY – 2025**  
 Étudiant en Master 2 MIAGE à l'UGB, passionné de Data & IA.
+
+
+![Capture d'écran 2025-04-27 031533](https://github.com/user-attachments/assets/7847ec41-e046-473f-8c64-571404e8488c)
+![Capture d'écran 2025-04-27 041812](https://github.com/user-attachments/assets/cc5ec773-c3ec-4d3a-a9ab-a4325881d96b)
+![Capture d'écran 2025-04-27 041923](https://github.com/user-attachments/assets/f87bb9f4-5e1f-475a-ac99-98f12568f53f)
+![Capture d'écran 2025-04-27 041942](https://github.com/user-attachments/assets/474e2963-3d2d-4a08-9e4b-5c5ed4f3acbf)
+![Capture d'écran 2025-04-27 042122](https://github.com/user-attachments/assets/4a993f8c-512f-48cb-9869-3649c4b8568e)
